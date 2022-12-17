@@ -84,3 +84,15 @@ body {
   padding: 100px;
   background: #112434;
 }
+
+.sec h2 {
+  font-size: 3em;
+  color: rgb(219, 219, 219);
+  margin-bottom: 10px;
+}
+
+.sec p {
+  font-size: 1em;
+  color: rgb(219, 219, 219);
+  font-weight: 300;
+}
